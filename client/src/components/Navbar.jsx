@@ -30,7 +30,7 @@ const Navbar = () => {
           location !== "chat" ? "sticky top-0 z-50" : ""
         } bg-primary text-primary-content flex justify-between items-center px-8 py-3  transition-all duration-300`}
       >
-        <h1 className="text-3xl font-bold">ChatApp</h1>
+        <h1 className="text-3xl font-bold">RICR ChatApp</h1>
 
         <div className="flex gap-4 items-center">
           <Link to="/">Home</Link>
